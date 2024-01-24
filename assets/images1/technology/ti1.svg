@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="51" viewBox="0 0 92 51">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="#4C4D53">
+            <g>
+                <g>
+                    <g transform="translate(-270 -1045) translate(271 1001) translate(0 45)">
+                        <path d="M46.45 4l-6.225 13.346c-.9 1.934-1.725 3.48-3.03 5.419h.508c2.552-2.454 3.91-3.42 5.785-4.84L61.575 4H88L57.189 25.082 70.167 47h-28.24L36.06 33.206c-.612-1.29-.998-2.837-1.304-4.128h-.507c-.287 1.483-.73 2.645-1.388 4.064L26.396 47H3L23.05 4h23.4z"/>
+                        <circle cx="86.5" cy="4.5" r="3.5" fill="#FFF"/>
+                        <circle cx="57.5" cy="25.5" r="3.5" fill="#FFF"/>
+                        <circle cx="69.5" cy="45.5" r="3.5" fill="#FFF"/>
+                        <circle cx="40.5" cy="45.5" r="3.5" fill="#FFF"/>
+                        <circle cx="34.5" cy="30.5" r="3.5" fill="#FFF"/>
+                        <circle cx="26.5" cy="45.5" r="3.5" fill="#FFF"/>
+                        <circle cx="3.5" cy="45.5" r="3.5" fill="#FFF"/>
+                        <circle cx="23.5" cy="3.5" r="3.5" fill="#FFF"/>
+                        <circle cx="46.5" cy="3.5" r="3.5" fill="#FFF"/>
+                        <circle cx="61.5" cy="3.5" r="3.5" fill="#FFF"/>
+                        <circle cx="37.5" cy="22.5" r="3.5" fill="#FFF"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
